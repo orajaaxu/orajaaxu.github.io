@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://orajaaxu.github.io/Qud/sitemap_index.txt
+Sitemap: https://orajaaxu.github.io/bhu/sitemap_index.txt
+Sitemap: https://orajaaxu.github.io/cDL/sitemap_index.txt
+Sitemap: https://orajaaxu.github.io/gln/sitemap_index.txt
